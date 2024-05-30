@@ -1,0 +1,15 @@
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\bin\Debug\net6.0\JonathanRodriguezET5.exe
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\bin\Debug\net6.0\JonathanRodriguezET5.deps.json
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\bin\Debug\net6.0\JonathanRodriguezET5.runtimeconfig.json
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\bin\Debug\net6.0\JonathanRodriguezET5.dll
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\bin\Debug\net6.0\JonathanRodriguezET5.pdb
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\obj\Debug\net6.0\JonathanRodriguezET5.csproj.AssemblyReference.cache
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\obj\Debug\net6.0\JonathanRodriguezET5.GeneratedMSBuildEditorConfig.editorconfig
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\obj\Debug\net6.0\JonathanRodriguezET5.AssemblyInfoInputs.cache
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\obj\Debug\net6.0\JonathanRodriguezET5.AssemblyInfo.cs
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\obj\Debug\net6.0\JonathanRodriguezET5.csproj.CoreCompileInputs.cache
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\obj\Debug\net6.0\JonathanRodriguezET5.dll
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\obj\Debug\net6.0\refint\JonathanRodriguezET5.dll
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\obj\Debug\net6.0\JonathanRodriguezET5.pdb
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\obj\Debug\net6.0\JonathanRodriguezET5.genruntimeconfig.cache
+C:\JONATHAN\UNAD\4 SEMESTRE\PROGRAMACION\TAREA 5\JonathanRodriguezET5\obj\Debug\net6.0\ref\JonathanRodriguezET5.dll
